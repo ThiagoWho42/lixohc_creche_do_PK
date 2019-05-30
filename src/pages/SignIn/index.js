@@ -30,7 +30,7 @@ const useStyles = makeStyles(theme => ({
     height: '100vh',
   },
   image: {
-    backgroundColor: 'red',
+    backgroundImage: 'url(https://cdn.pixabay.com/photo/2016/03/07/09/34/kid-1241817_960_720.jpg)',
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
     backgroundPosition: 'center',
